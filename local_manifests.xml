@@ -3,7 +3,7 @@
 
 
     <!-- Remotes -->
-    <remote name="Failedmush" fetch="https://github.com/Failedmush" revision="Pixelos-15" />
+    <remote name="Failedmush" fetch="https://https://github.com/Failedmush/android_device_xiaomi_renoir." revision="Pixelos-15" />
 
    <!-- Device - Common -->
 
