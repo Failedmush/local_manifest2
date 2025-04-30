@@ -3,7 +3,7 @@
    <!-- Remotes -->
     <remote name="Sakura" fetch="https://github.com/Maitani-Sakura" revision="lineage-22.1" />
     <remote name="Sakura-gitlab" fetch="https://gitlab.com/Maitani-Sakura" revision="lineage-22.1" />
-    <remote name="RobertGarciaa" fetch="https://github.com/RobertGarciaa" revision="lineage-22.1" />
+    <remote name="LineageOS" fetch="https://github.com/LineageOS" revision="lineage-22.1" />
 
     <!-- Removals -->
  
@@ -25,7 +25,7 @@
     <!-- Vendor - Common -->
 
     <!-- Hardware -->
-   <project path="hardware/xiaomi" name="hardware_xiaomi" remote="RobertGarciaa" />
+   <project path="hardware/xiaomi" name=" android_hardware_xiaomi"remote="RobertGarciaa" />
  <!-- Addition -->
     <project path="vendor/xiaomi/camera" name="android_vendor_xiaomi_camera" remote="Sakura" />
 </manifest>
