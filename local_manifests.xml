@@ -1,30 +1,29 @@
 <manifest>
 
    <!-- Remotes -->
-    <remote name="AOSPA-renoir" fetch="https://github.com/AOSPA-renoir" revision="uvite" />
-  
-
+    <remote name="Sakura" fetch="https://github.com/Maitani-Sakura" revision="lineage-22.1" />
+    <remote name="Sakura-gitlab" fetch="https://gitlab.com/Maitani-Sakura" revision="lineage-22.1" />
+    <remote name="Rising Revived OSS" fetch="https://github.com/RisingOS-Revived revision="qpr2" />
     <!-- Removals -->
  
 
     <!-- Repos -->
     <!-- Device -->
-  <project path="device/xiaomi/renoir" name="android_device_xiaomi_renoir" remote="AOSPA-renoir" />
-  <project path="device/xiaomi/sm8350-common" name=" device_xiaomi_sm8350-common" remote="AOSPA-renoir" />
+  <project path="device/xiaomi/renoir" name="android_device_xiaomi_renoir" remote="Sakura" />
+  <project path="device/xiaomi/sm8350-common" name="android_device_xiaomi_sm8350-common" remote="Sakura" />
 
     <!-- Device - Common -->
 
     <!-- Kernel -->
-    <project path="android_kernel_msm-5.4" name="android_kernel_msm-5.4" remote="AOSPA-renoir" />
+    <project path="kernel/xiaomi/sm8350" name="android_kernel_xiaomi_sm8350" remote="Sakura" />
 
     <!-- Vendor -->
- <project path="vendor/xiaomi/renoir" name="android_vendor_xiaomi_renoir" remote="AOSPA-renoir" />
-    <project path="vendor/xiaomi/sm8350-common" name="android_vendor_xiaomi_sm8350-common" remote="AOSPA-renoir" />
-<project path="vendor_aospa" name="vendor_aospa" remote="AOSPA-renoir" />
+ <project path="vendor/xiaomi/renoir" name="android_vendor_xiaomi_renoir" remote="Sakura" />
+    <project path="vendor/xiaomi/sm8350-common" name="android_vendor_xiaomi_sm8350-common" remote="Sakura" />
+
     <!-- Vendor - Common -->
 
     <!-- Hardware -->
-   <project path="hardware_xiaomi" name=" hardware_xiaomi" remote="AOSPA-renoir" />
- <!-- Addition -->
-    <project path="vendor/xiaomi/camera-renoir" name="vendor_xiaomi_camera-renoir" remote="AOSPA-renoir" />
+   <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="Sakura" />
+
 </manifest>
