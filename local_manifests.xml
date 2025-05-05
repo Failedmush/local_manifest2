@@ -211,11 +211,7 @@
   <project path="external/google-fonts/arbutus-slab" name="platform/external/google-fonts/arbutus-slab" groups="pdk" remote="aosp" />
   <project path="external/google-fonts/arvo" name="platform/external/google-fonts/arvo" groups="pdk" remote="aosp" />
   <project path="external/google-fonts/barlow" name="platform/external/google-fonts/barlow" groups="pdk" remote="aosp" />
-  <project path="external/google"
-
-
-
-    <!-- Removals -->
+  <project path="external/google
  
 
     <!-- Repos -->
