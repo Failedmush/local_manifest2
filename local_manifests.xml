@@ -212,9 +212,7 @@
   <project path="external/google-fonts/arvo" name="platform/external/google-fonts/arvo" groups="pdk" remote="aosp" />
   <project path="external/google-fonts/barlow" name="platform/external/google-fonts/barlow" groups="pdk" remote="aosp" />
   <project path="external/google
- 
-
-    <!-- Repos -->
+  
     <!-- Device -->
   <project path="device/xiaomi/renoir" name="android_device_xiaomi_renoir" remote="Failedmush" />
   <project path="device/xiaomi/sm8350-common" name="android_device_xiaomi_sm8350-common" remote="Failedmush" />
