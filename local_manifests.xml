@@ -2,7 +2,7 @@
 
    <!-- Remotes -->
   <remote name="Failedmush" fetch="https://github.com/Failedmush" revision="lineage-22.1" />
-<remote name="Failedmush" fetch="https://github.com/Los-Ext" revision="15" />
+<remote name="Los-Ext" fetch="https://github.com/Los-Ext" revision="15" />
     <!-- Removals -->
  
 
